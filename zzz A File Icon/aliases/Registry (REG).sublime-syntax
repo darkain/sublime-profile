@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: Registry (REG)
+scope: source.reg
+hidden: true
+hidden_file_extensions:
+  - reg
+contexts:
+  main: []

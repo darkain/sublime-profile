@@ -1,0 +1,30 @@
+%YAML 1.2
+---
+name: Git Formats
+scope: text.git
+hidden: true
+hidden_file_extensions:
+  - .git
+  - .git-blame-ignore-revs
+  - .gitattributes
+  - .gitconfig
+  - .gitignore
+  - .gitmodules
+  - .mailmap
+  - CODEOWNERS
+  - COMMIT_EDITMSG
+  - diff.eml
+  - diff.mbox
+  - git-blame-ignore-revs
+  - git-rebase-todo
+  - gitattributes
+  - gitconfig
+  - gitignore
+  - mailmap
+  - MERGE_MSG
+  - patch.eml
+  - patch.mbox
+  - sparse-checkout
+  - TAG_EDITMSG
+contexts:
+  main: []
