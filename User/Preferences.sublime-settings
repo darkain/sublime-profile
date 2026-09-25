@@ -59,4 +59,5 @@
 	"theme": "Adaptive.sublime-theme",
 	"themed_title_bar": false,
 	"trim_trailing_white_space_on_save": true,
+	"index_files": true,
 }
